@@ -1,4 +1,4 @@
-# 👋 Vinicius Dias
+# 👋 Olá! Me chamo Vinícius
 
 Sou desenvolvedor **fullstack** com experiência em soluções modernas e escaláveis.  
 
